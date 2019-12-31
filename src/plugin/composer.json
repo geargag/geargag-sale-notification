@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "vnh_namespace\\": "."
+        }
+    },
+    "require": {
+        "julien731/wp-review-me": "^2.0.1"
+    }
+}
